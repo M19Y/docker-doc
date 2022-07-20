@@ -1,0 +1,16 @@
+==========Docker registry==========
+
+   Docker registry adalah tempat untuk menyimpan image
+salah satu tempat penyimpanan image yakni : https://hub.docker.com/
+
+
+==========Docker Container==========
+
+   Docker container adalah hasil installer dari docker image
+kita bisa membuat multi docker container menggunakan  image yang sama
+dengan syarat nama dari masing-masing container harus berbeda.
+
+   Docker image yang sudah dibuatkan container, imagenya tidak bisa 
+di hapus secara langsung. melainkan menggunakan cara-cara tertentu
+untuk menghapus imagenya
+
